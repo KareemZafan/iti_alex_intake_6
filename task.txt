@@ -1,0 +1,8 @@
+
+
+# add two numbers 
+
+ int a = 9; 
+ int b = 1 ; 
+ cout << a + b <<endl; 
+
