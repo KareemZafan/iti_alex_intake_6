@@ -11,4 +11,7 @@
  
  cout<< sqrt(a + b) <<endl; 
  
+ #factorial 
+ 
+ cout<<fact(a + b ) << endl; 
 
